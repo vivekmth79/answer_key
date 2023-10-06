@@ -13,7 +13,7 @@ chrome.runtime.onInstalled.addListener(function (details) {
       url: installURL,
     });
     chrome.notifications.create({
-      title: "TUTORIEX",
+      title: "anskey",
       message: "suggest changes",
       iconUrl: "icon.png",
       type: "basic",
