@@ -1,11 +1,11 @@
-// console.log("Running HitbullsEye Automation!");
+
 let current_tab_url = window.location.href;
 let speed = 2000;
 
 
 if (
   current_tab_url.includes(
-    "https://www.youtube.com/@Tutoriex_?sub_confirmation=1"
+    ""
   )
 ) {
   // console.log("I Ma here");
